@@ -1,4 +1,4 @@
-# laraselinseyahi-the-MET-Museum-art-trends-analysis
+# the-MET-Museum-art-trends-analysis
 
 # MET Art Trends Analysis  
 
